@@ -1,0 +1,9 @@
+:root{
+  --bg:#0A0A0A; --black:#000; --white:#fff; --white-soft:#FAFAFA;
+  --amber:#E5A967; --copper:#C88A58; --silver:#E2E8F0;
+  --surface:#141414; --surface-raised:#1C1C1C; --border:#262626;
+  --font-title:var(--font-outfit),system-ui,sans-serif; --font-body:var(--font-inter),system-ui,sans-serif;
+  --s1:4px;--s2:8px;--s3:12px;--s4:16px;--s6:24px;--s8:32px;--s12:48px;--s16:64px;--s24:96px;--s32:128px;
+  --maxw:1200px; --gutter:clamp(20px,5vw,48px);
+  --h1:clamp(2.5rem,7.5vw,5.5rem); --h2:clamp(1.875rem,4.5vw,3.25rem); --h3:clamp(1.25rem,2vw,1.5rem);
+}
